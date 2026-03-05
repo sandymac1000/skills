@@ -1,6 +1,6 @@
 ---
 name: vc-board-analysis
-description: Structured board material review for a VC partner with a software, ML, and AI portfolio approaching exit. Produces a 5-section investment analysis (Situation, Financial Trajectory, Commercial Momentum, Product & AI/ML Position, Exit Readiness) capped at 800 words. Trigger when the user shares board materials, board packs, investor updates, quarterly reports, management accounts, or asks for board prep, pre-meeting review, or portfolio company analysis. Also trigger for lightweight financial snapshot mode when only management accounts or financial data are provided. Optimised for mature software/ML/AI companies at Series B–D approaching exit horizon. Current portfolio: Lifebit, Stacker/Outportal, nPlan, EOLA.
+description: "Structured board material review for a VC partner with a software, ML, and AI portfolio approaching exit. Produces a 5-section investment analysis (Situation, Financial Trajectory, Commercial Momentum, Product & AI/ML Position, Exit Readiness) capped at 800 words. Trigger when the user shares board materials, board packs, investor updates, quarterly reports, management accounts, or asks for board prep, pre-meeting review, or portfolio company analysis. Also trigger for lightweight financial snapshot mode when only management accounts or financial data are provided. Optimised for mature software/ML/AI companies at Series B–D approaching exit horizon. Current portfolio: Lifebit, Stacker/Outportal, nPlan, EOLA."
 ---
 
 # VC Board Material Analysis
